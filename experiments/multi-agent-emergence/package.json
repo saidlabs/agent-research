@@ -1,0 +1,12 @@
+{
+  "name": "multi-agent-emergence",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Multi-agent emergence experiment inspired by MiroFish",
+  "main": "run-simulation.js",
+  "scripts": {
+    "start": "node run-simulation.js"
+  },
+  "author": "SAID LABS",
+  "license": "MIT"
+}
